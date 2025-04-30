@@ -127,7 +127,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Caja.cpp" />
+    <ClCompile Include="Calendario.cpp" />
+    <ClCompile Include="Categoria_producto.cpp" />
+    <ClCompile Include="Cliente.cpp" />
+    <ClCompile Include="Detalle_factura.cpp" />
+    <ClCompile Include="Factura.cpp" />
+    <ClCompile Include="Incidente.cpp" />
+    <ClCompile Include="Inventario.cpp" />
+    <ClCompile Include="Pago.cpp" />
+    <ClCompile Include="Producto.cpp" />
+    <ClCompile Include="Proveedor.cpp" />
     <ClCompile Include="Proyecto-final.cpp" />
+    <ClCompile Include="Reclamo.cpp" />
+    <ClCompile Include="Rol.cpp" />
+    <ClCompile Include="Sede.cpp" />
+    <ClCompile Include="Trabajador.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
