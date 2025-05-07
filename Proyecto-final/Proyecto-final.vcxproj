@@ -144,6 +144,13 @@
     <ClCompile Include="Sede.cpp" />
     <ClCompile Include="Trabajador.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Incidente.h" />
+    <ClInclude Include="Inventario.h" />
+    <ClInclude Include="Pago.h" />
+    <ClInclude Include="Proveedor.h" />
+    <ClInclude Include="Reclamo.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
